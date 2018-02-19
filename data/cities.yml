@@ -1,0 +1,4 @@
+- name: 'Paris'
+  description: 'Nice town'
+- name: 'London'
+  description: 'Cool place'
